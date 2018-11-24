@@ -1,2 +1,10 @@
-# sopt_report5
-s.o.p.t 23rd server part report 5
+# SOPT Server part
+### Report 5
+
+##### 요구사항
+
+- 포켓몬 도감 서비스의 URI/API를 설계한다.
+- 포켓몬 도감은 CRUD 기능을 가지고 있다.
+- 모든 속성값은 자유.
+- 모두 마크다운 문법으로 파일을 작성한다.
+- API 문서에서 모든 상황은 가정하고 작성한다. (포켓몬이 존재하지 않는다, DB에러 등.. .)
