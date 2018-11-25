@@ -170,7 +170,7 @@ Content-Type : application/json
 ### 요청 헤더
 
 ```http
-Content-Type : application/json
+Content-Type : multipart/form-data
 ```
 
 
@@ -249,7 +249,7 @@ Content-Type : application/json
 ### 요청 헤더
 
 ```http
-Content-Type : application/json
+Content-Type : multipart/form-data
 ```
 
 
@@ -268,7 +268,7 @@ Content-Type : application/json
 
 ### 응답 바디
 
-#### 포켓몬 등록 성공
+#### 포켓몬 수정 성공
 
 ```json
 {
@@ -283,7 +283,7 @@ Content-Type : application/json
 }
 ```
 
-#### 포켓몬 등록 실패
+#### 포켓몬 수정 실패
 
 ```json
 {
@@ -335,7 +335,7 @@ Content-Type : application/json
 
 ### 응답 바디
 
-#### 포켓몬 등록 성공
+#### 포켓몬 삭제 성공
 
 ```json
 {
@@ -345,7 +345,7 @@ Content-Type : application/json
 }
 ```
 
-#### 포켓몬 등록 실패
+#### 포켓몬 삭제 실패
 
 ```json
 {
